@@ -1,0 +1,9 @@
+C:\Documents and Settings\Mocanu George\My Documents\Visual Studio 2008\Projects\Mind_Puzzle\Mind_Puzzle\bin\Debug\Mind_Puzzle.exe
+C:\Documents and Settings\Mocanu George\My Documents\Visual Studio 2008\Projects\Mind_Puzzle\Mind_Puzzle\bin\Debug\Mind_Puzzle.pdb
+C:\Documents and Settings\Mocanu George\My Documents\Visual Studio 2008\Projects\Mind_Puzzle\Mind_Puzzle\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mocanu George\My Documents\Visual Studio 2008\Projects\Mind_Puzzle\Mind_Puzzle\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Mocanu George\My Documents\Visual Studio 2008\Projects\Mind_Puzzle\Mind_Puzzle\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Mocanu George\My Documents\Visual Studio 2008\Projects\Mind_Puzzle\Mind_Puzzle\obj\Debug\Mind_Puzzle.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mocanu George\My Documents\Visual Studio 2008\Projects\Mind_Puzzle\Mind_Puzzle\obj\Debug\Mind_Puzzle.exe
+C:\Documents and Settings\Mocanu George\My Documents\Visual Studio 2008\Projects\Mind_Puzzle\Mind_Puzzle\obj\Debug\Mind_Puzzle.pdb
+C:\Documents and Settings\Mocanu George\My Documents\Visual Studio 2008\Projects\Mind_Puzzle\Mind_Puzzle\obj\Debug\WindowsFormsApplication1.AboutPuzzle.resources
